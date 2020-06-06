@@ -3,7 +3,7 @@
   "description": "",
   "dependencies": {
     "apollo-server": "2.7.0",
-    "apollo-server-micro": "^2.9.3",
+    "apollo-server-micro": "^2.14.2",
     "graphql": "^14.5.4"
   },
   "license": "MIT",
